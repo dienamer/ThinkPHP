@@ -1,0 +1,28 @@
+{
+    "name": "topthink/think",
+    "description": "the new ../../../../Downloads/mksz097 - 微信小程序电商实战 从前端到后端的全流程精讲/资料/y0zdij/Zerg/thinkphp framework",
+    "type": "project",
+    "keywords": [
+        "framework",
+      "../../../../Downloads/mksz097 - 微信小程序电商实战 从前端到后端的全流程精讲/资料/y0zdij/Zerg/thinkphp",
+        "ORM"
+    ],
+    "homepage": "http://thinkphp.cn/",
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "liu21st",
+            "email": "liu21st@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "topthink/framework": "^5.0"
+    },
+    "extra": {
+        "think-path": "../../../../Downloads/mksz097 - 微信小程序电商实战 从前端到后端的全流程精讲/资料/y0zdij/Zerg/thinkphp"
+    },
+    "config": {
+        "preferred-install": "dist"
+    }
+}
